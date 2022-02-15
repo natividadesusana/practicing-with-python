@@ -9,3 +9,6 @@ print(users)
 
 users['florinda'] = ['Dona Florinda', '14/02/2022', 'Raiox_01']
 print(users)
+
+print('####----####')
+print(users.get('quico'))
