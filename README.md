@@ -1,2 +1,1 @@
-# ManipulatingFiles-Python
-🕹 Praticando com Python ~
+# Practicing with Python ~ 🕹  
