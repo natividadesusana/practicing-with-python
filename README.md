@@ -1,1 +1,2 @@
-# ⚡️ Practicing with Python ~  
+# Python 
+⚡️ Practicing with Python 
